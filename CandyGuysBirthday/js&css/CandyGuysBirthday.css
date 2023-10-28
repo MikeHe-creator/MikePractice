@@ -191,7 +191,7 @@ p{
     width: 150px;
     transform: rotate(-20deg);
     z-index: 1;
-    margin-left: 150px;
+    margin-left: 50%;
     margin-top: -50px;
 } 
 @keyframes mymove{
